@@ -12,6 +12,8 @@ body {
 .product {
   text-align: center;
   display: flex;
+  justify-content: center;
+  text-align: center;
   margin: 400px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 25px;
